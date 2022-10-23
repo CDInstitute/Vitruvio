@@ -1,4 +1,6 @@
-# Occupancy Networks
+# Vitruvio: Deep Learning Method to Generate a 3D Building Watertight Mesh from a Single Perspective Sketch
+
+<img src="imgs/slide11.jpg" width="1000"/>
 
 This repository uses the code from the paper
 [Occupancy Networks - Learning 3D Reconstruction in Function Space](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks) as a baseline. 
@@ -8,3 +10,6 @@ This repository uses the code from the paper
 You can generate your own dataset taking the .obj files from RealCity3D and run the code in Occupancy Network to get the occupancy field. 
 
 For any other inqueries please reach out to Alberto Tono using atono@stanford.edu
+
+<img src="imgs/slide6.jpg" width="1000"/>
+
