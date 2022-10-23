@@ -1,0 +1,10 @@
+inherit_from: configs/img/onet.yaml
+data:
+  dataset: images
+  path: demo #changed
+training:
+  out_dir: out/2_PFTA/onet #changed
+generation:
+  generation_dir: generation
+  refinement_step: 30
+  simplify_nfaces: 5000
