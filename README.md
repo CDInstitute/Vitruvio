@@ -7,7 +7,11 @@
 This repository uses the code from the paper
 [Occupancy Networks - Learning 3D Reconstruction in Function Space](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks) as a baseline. 
 
-[Paper](https://arxiv.org/abs/2210.13634)
+[Paper](https://arxiv.org/abs/2210.13634) 
+
+[Dataset, Weights Request & Contribution Form](https://forms.gle/JEUW8kpDz2pmtyYv5) [5GB]
+
+[Dataset Split](https://drive.google.com/file/d/1CA-ck2-E5H8GrK6jvVzKNKVTyM4gCo4Q/view?usp=share_link) [26kb]
 
 ## Dataset
 
