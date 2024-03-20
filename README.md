@@ -1,5 +1,8 @@
 # Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
 
+<p align="center">
+<img src="imgs/Hero_Image_REVIEWED.jpg" width="1000"/>
+</p>
 
 This method allows designers to automatically generate 3D representations in real-time based on their initial sketches and thus communicate effectively and intuitively to the client. Vitruvio adapts the Occupancy Network to perform single view reconstruction (SVR), a technique for creating 3D representations from a single image. Vitruvio achieves: (1) an 18\% increase in the reconstruction accuracy and (2) a 26\% reduction in the inference time compared to the Occupancy Network on one thousand buildings provided by the New York municipality. This research investigates the effect that the building orientation has on the reconstruction quality, discovering that Vitruvio can capture fine-grain details in complex buildings when their native orientation is preserved during training, as opposed to the SVR's standard practice that aligns every building to its canonical pose.
 
@@ -16,6 +19,8 @@ This method allows designers to automatically generate 3D representations in rea
 
 ### Orientation
 
+![Orientation](imgs/GIF_Preparation_white.gif) | We need to consider the orientation of the building for this sketch to 3D method. 
+------------ | -------------
 
 
 ## Main References and Material
