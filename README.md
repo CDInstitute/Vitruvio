@@ -1,4 +1,4 @@
-# Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
+# Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
 
 <p align="center">
 <img src="imgs/Hero_Image_REVIEWED.jpg" width="1000"/>
