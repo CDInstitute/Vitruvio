@@ -19,7 +19,7 @@ This method allows designers to automatically generate 3D representations in rea
 
 ### Orientation
 
-![Orientation](imgs/GIF_Preparation_white.gif) | We need to consider the orientation of the building for this sketch to 3D method. 
+![Orientation](imgs/GIF_Preparation_white.gif) | We need to consider the orientation of the building for this sketch to 3D method. Use this [script](https://github.com/CDInstitute/Vitruvio/blob/38f7c596a24ba71498723475bf2778d19003010b/align.py) to center and align the dataset, while tracking the orientation. Make sure to install all the packages in your environemnt and use `python align.py --objs '<FOLDER PATH>' `
 ------------ | -------------
 
 
