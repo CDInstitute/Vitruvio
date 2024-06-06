@@ -33,6 +33,10 @@ This repository uses the code from the paper
 
 ## Dataset
 
+[Dataset, Weights Request & Contribution Form](https://forms.gle/JEUW8kpDz2pmtyYv5) [5GB]
+
+[Dataset Split](https://drive.google.com/file/d/1CA-ck2-E5H8GrK6jvVzKNKVTyM4gCo4Q/view?usp=share_link) [26kb]
+
 You can generate your own dataset taking the .obj files from RealCity3D and run the code in Occupancy Network to get the occupancy field. For any other inqueries please reach out to Alberto Tono using atono@stanford.edu
 
 ## Acknowledgement 
