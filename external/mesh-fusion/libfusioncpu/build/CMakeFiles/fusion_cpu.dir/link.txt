@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -msse -msse2 -msse3 -msse4.2 -fPIC -D_FORCE_INLINES -Wall -fopenmp -O3 -DNDEBUG  -shared -Wl,-soname,libfusion_cpu.so -o libfusion_cpu.so CMakeFiles/fusion_cpu.dir/fusion.cpp.o 
