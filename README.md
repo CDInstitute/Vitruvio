@@ -11,7 +11,7 @@
 [Martin Fischer](https://www.linkedin.com/in/martin-fischer-5b314/)<sup>1</sup>,
 
 <sup>1</sup>[Stanford University](https://cife.stanford.edu/),
-<sup>2</sup>[Computational Design Institute](https://github.com/CDInstitute),
+<sup>2</sup>[Computational Design Institute](https://github.com/CDInstitute)
 
 ## Highlights
 
