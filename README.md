@@ -41,6 +41,12 @@ Finally, Vitruvio outputs a 3D-printable building mesh with arbitrary topology a
 providing a step forward to allow owners and designers to communicate 3D information via a 2D, effective, intuitive, 
 and universal communication medium: the sketch.
 
+## Dataset 
+
+[Dataset, Weights Request & Contribution Form](https://forms.gle/JEUW8kpDz2pmtyYv5) [5GB]
+
+[Dataset Split](https://drive.google.com/file/d/1CA-ck2-E5H8GrK6jvVzKNKVTyM4gCo4Q/view?usp=share_link) [26kb]
+
 ## Contact Information
 - Alberto Tono : alberto.tono@cd.institute or atono@stanfor.edu
 
