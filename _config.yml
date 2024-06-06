@@ -1,0 +1,28 @@
+theme: jekyll-theme-cayman
+show_downloads: true
+title: Vitruvio: Generating Building Meshes from Single Perspective Sketches
+description: Conditional Variational Autoencoder (CVAE) for 3D Building Generation
+logo: Vitruvio_logo.jpg 
+
+header:
+  title: Vitruvio
+  tagline: Occupancy Network improvement
+
+sections:
+  - title: Overview
+    description: |
+      Vitruvio leverages Conditional Variational Autoencoders (CVAE) to generate detailed 3D building meshes from simple sketches.
+  - title: Highlights
+    items:
+      - We introduced learning-based method for single perspective sketch-to-3D applications in the Architecture Engineering and Construction (AEC) industry.
+      - We adapted a previous state-of-the-art Conditional Variational Autoencoder (Occupancy Network) to scalable datasets.
+      - We showed qualitatively and quantitatively how the building orientation affects the reconstruction.
+
+
+footer:
+  copyright: "© 2024 Vitruvio Project"
+  links:
+    - title: GitHub
+      url: https://github.com/CDInstitute/Vitruvio
+    - title: Contact
+      url: atono@stanford.edu
