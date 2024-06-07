@@ -1,5 +1,5 @@
 
-# <img src="Vitruvio_logo.jpg" alt="Vitruvio Icon" width="40" align="left"> Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
+# <img src="Vitruvio_logo.jpg" alt="Vitruvio Icon" width="100" align="left"> Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
 
 
 ![image](https://github.com/CDInstitute/Vitruvio/assets/11828200/35dd6759-3ed8-4d1b-b1da-c833afe09f89)
