@@ -1,4 +1,3 @@
-
 # <img src="Vitruvio_logo.jpg" alt="Vitruvio Icon" width="100" align="left"> Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
 
 
@@ -47,7 +46,7 @@ and universal communication medium: the sketch.
 
 ## Alignment Algorithm
 
-<img src="GIF_Preparation_white.gif" alt="GIF" width="400" align="left"> 
+<img src="GIF_Preparation_white.gif" alt="GIF" width="100" align="left" style="margin-right: 200;"> 
 
 This orientation algorithm aligns buildings to their canonical poses while keeping track of the true north (N) position. Step 2 extracts the Oriented Bounding Box (OBB), and its main axis (𝐼𝑦) is used to perform the orientation in steps 3 and 4. Since we need to keep track of the orientation angle, we create a convention for clockwise and counterclockwise rotations. In step 6, we save the rotation angle for each building in a .txt file named ’Rotation Tracker.txt’.
 
