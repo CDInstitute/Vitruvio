@@ -41,6 +41,19 @@ Finally, Vitruvio outputs a 3D-printable building mesh with arbitrary topology a
 providing a step forward to allow owners and designers to communicate 3D information via a 2D, effective, intuitive, 
 and universal communication medium: the sketch.
 
+## Presentation
+
+[![Vitruvio Video](https://img.youtube.com/vi/Zgq23GxQKts/0.jpg)](https://youtu.be/Zgq23GxQKts?si=znkTXoYb6kDIjaO3)
+
+## Alignment Algorithm
+
+<img src="GIF_Preparation_white.gif" alt="GIF" width="400" align="left"> 
+
+This orientation algorithm aligns buildings to their canonical poses while keeping track of the true north (N) position. Step 2 extracts the Oriented Bounding Box (OBB), and its main axis (𝐼𝑦) is used to perform the orientation in steps 3 and 4. Since we need to keep track of the orientation angle, we create a convention for clockwise and counterclockwise rotations. In step 6, we save the rotation angle for each building in a .txt file named ’Rotation Tracker.txt’.
+
+![Screenshot 2024-06-21 at 10 27 44 AM](https://github.com/CDInstitute/Vitruvio/assets/11828200/810abdc2-8879-456a-9232-131444994042)
+
+
 ## Dataset 
 
 [Dataset, Weights Request & Contribution Form](https://forms.gle/JEUW8kpDz2pmtyYv5) [5GB]
