@@ -12,6 +12,9 @@
 <sup>1</sup>[Stanford University](https://cife.stanford.edu/),
 <sup>2</sup>[Computational Design Institute](https://github.com/CDInstitute)
 
+[Paper in Automation in Construction 2024](https://www.sciencedirect.com/science/article/pii/S0926580524002346?dgcid=author)
+[Paper in ArXiv 2022](https://arxiv.org/abs/2210.13634)
+
 ## Highlights
 
 - We introduced learning-based method for single perspective sketch-to-3D applications in the Architecture Engineering
