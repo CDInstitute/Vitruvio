@@ -65,12 +65,17 @@ This orientation algorithm aligns buildings to their canonical poses while keepi
 ## Cite 
 
 ```
-@misc{tono22vitruvio,
-  doi = {},
-  url = {},
-  author = {Tono, Alberto; Heyaojing, Huang;  Ashwin, Agrawal; Fischer, Martin},
-  title = {Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches},
-  publisher = {},
-  year = {2022},
+@article{TONO2024105498,
+        title = {Vitruvio: Conditional variational autoencoder to generate building meshes via single perspective sketches},
+        journal = {Automation in Construction},
+        volume = {166},
+        pages = {105498},
+        year = {2024},
+        issn = {0926-5805},
+        doi = {https://doi.org/10.1016/j.autcon.2024.105498},
+        url = {https://www.sciencedirect.com/science/article/pii/S0926580524002346},
+        author = {Alberto Tono and Heyaojing Huang and Ashwin Agrawal and Martin Fischer},
+        keywords = {Artificial intelligence, Neural-aided design, Deep generative design, Deep generative modeling, Conditional variational autoencoder, Sketch-based modeling},
+        abstract = {}
 }
 ```
