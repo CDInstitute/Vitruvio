@@ -66,7 +66,7 @@ This orientation algorithm aligns buildings to their canonical poses while keepi
 [Dataset Split](https://drive.google.com/file/d/1CA-ck2-E5H8GrK6jvVzKNKVTyM4gCo4Q/view?usp=share_link) [26kb]
 
 ## Contact Information
-- Alberto Tono : alberto.tono@cd.institute or atono@stanfor.edu
+- Alberto Tono : alberto.tono@cd.institute or atono@stanford.edu
 
 ## Cite 
 
