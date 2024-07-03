@@ -1,5 +1,7 @@
 # Vitruvio: Conditional Variational Autoencoder (CVAE) to Generate Building Meshes via Single Perspective Sketches
 
+[Paper Automation In Construction](https://www.sciencedirect.com/science/article/pii/S0926580524002346?dgcid=author)
+[ArXiv 2022](https://arxiv.org/abs/2210.13634)
 <p align="center">
 <img src="imgs/Hero_Image_REVIEWED.jpg" width="1000"/>
 </p>
