@@ -46,13 +46,16 @@ This repository uses the code from the paper
 ## Cite 
 
 ```
-@misc{tono22vitruvio,
-  doi = {10.48550/ARXIV.2210.13634},
-  url = {https://arxiv.org/abs/2210.13634},
-  author = {Tono, Alberto and Fischer, Martin},
-  title = {Vitruvio: 3D Building Meshes via Single Perspective Sketches},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{TONO2024105498,
+        title = {Vitruvio: Conditional variational autoencoder to generate building meshes via single perspective sketches},
+        journal = {Automation in Construction},
+        volume = {166},
+        pages = {105498},
+        year = {2024},
+        issn = {0926-5805},
+        doi = {https://doi.org/10.1016/j.autcon.2024.105498},
+        url = {https://www.sciencedirect.com/science/article/pii/S0926580524002346},
+        author = {Alberto Tono and Heyaojing Huang and Ashwin Agrawal and Martin Fischer},
+        keywords = {Artificial intelligence, Neural-aided design, Deep generative design, Deep generative modeling, Conditional variational autoencoder, Sketch-based modeling},
 }
 ```
